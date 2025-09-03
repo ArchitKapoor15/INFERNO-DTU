@@ -3,6 +3,10 @@
 ## 📌 Overview
 This repository showcases the development and implementation details of our **Mars Rover prototype**, designed for **autonomous and manual operations** in challenging terrains. The rover is built to perform **scientific analysis, object detection, and autonomous navigation** using advanced hardware and software integrations.
 
+<p align="center">
+  <img src="Images/Arohn.jpeg" alt="Rover in Action" width="600">
+</p>
+
 ## 🚀 Key Components
 
 ### 🛠️ Microcontrollers
