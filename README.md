@@ -26,8 +26,8 @@ This repository showcases the development and implementation details of our **Ma
 
 ## 📸 Rover Gallery  
 Here are some images of our rover in action:  
-<img src="Images/IMG_6914.JPG" width="400" height="300"> <img src="Images/IMG_6986.JPG" width="400" height="300">  
-<img src="Images/IMG_8368.jpg" width="400" height="300"> <img src="Images/IMG_6949.JPG" width="400" height="300">
+<img src="Images/IMG_6914.JPEG" width="400" height="300"> <img src="Images/IMG_6986.JPEG" width="400" height="300">  
+<img src="Images/IMG_8368.jpeg" width="400" height="300"> <img src="Images/IMG_6949.JPEG" width="400" height="300">
 
 ## 🌟 Features
 ✅ **Six-Wheel Drive:** Optimized for various terrains, ensuring stability and mobility.  
