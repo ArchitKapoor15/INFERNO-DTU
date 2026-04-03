@@ -13,7 +13,7 @@ This repository showcases the development and implementation details of our **Ma
 - **Arm Control:** ESP code to manage robotic arm movements.
 - **Drive Control:** ESP code for manual driving operations.
 - **Sensor Data:** Arduino scripts for publishing and subscribing science sensor data via ROS topics.
-- **Wireless Communication:** Utilizes a **2.4GHz antenna** for stable data transmission between the rover and the base station.
+- **Wireless Communication:** Utilizes a **2.4GHz / 5GHz antenna** (depending on the competition) for stable data transmission between the rover and the base station.
 
 ### 🏎️ ROS Nodes
 - **Arm Nodes:** Publish joystick values to control the robotic arm.
@@ -53,7 +53,6 @@ Here are some images of our rover in action:
 - **Optimized Power Management:** Increase efficiency for extended missions.
 - **AI-Based Decision Making:** Improve navigation and object recognition algorithms.
 - **Shifting to ROS 2:** Transitioning the entire stack to ROS 2 for better performance and modularity.
-- 
 
 ## 👥 Contributors
 This project is a collaborative effort by the **[Team Inferno DTU]**, a group of passionate engineers and researchers specializing in robotics, AI, and embedded systems.
