@@ -10,8 +10,8 @@ This repository showcases the development and implementation details of our **Ma
 ## 🚀 Key Components
 
 ### 🛠️ Microcontrollers
-- **Arm Control:** ESP code to manage robotic arm movements.
-- **Drive Control:** ESP code for manual driving operations.
+- **Arm Control:** ESP32/STM32 code to manage robotic arm movements.
+- **Drive Control:** ESP32/STM32 code for manual driving operations.
 - **Sensor Data:** Arduino scripts for publishing and subscribing science sensor data via ROS topics.
 - **Wireless Communication:** Utilizes a **2.4GHz / 5GHz antenna** (depending on the competition) for stable data transmission between the rover and the base station.
 
@@ -37,7 +37,7 @@ Here are some images of our rover in action:
 ✅ **Jetson Nano Computing Unit:** Handles real-time processing for object detection and navigation.  
 ✅ **Kinect v2 Depth Sensor:** Enables obstacle detection, terrain mapping, and object recognition.  
 ✅ **Scientific Assembly:** Equipped with sensors to analyze soil samples for potential signs of life.  
-✅ **Wireless Communication:** Uses a **2.4GHz antenna** to maintain communication with the base station over an optimal range.  
+✅ **Wireless Communication:** Uses a **2.4GHz / 5GHz antenna** to maintain communication with the base station over an optimal range.  
 
 ## 🛠️ Technologies Used
 - **Programming Languages:** C++, Python
